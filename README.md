@@ -35,7 +35,8 @@ Tracking COVID-19’s spread and vaccination rollout at the state level is criti
 
 ## 🖼 Dashboard Preview
 
-![Sample Visualization](screenshots/sample_viz.png)  
+![Visualization_1](Images/project3_1.png)  
+![Visualization_2](Images/project3_2.png)  
 
 
 ---
